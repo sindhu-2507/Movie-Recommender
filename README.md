@@ -25,3 +25,4 @@ With these we apply collaborative filtering based on users personal taste and mo
 We take inputs the user_id and the movie he searched and give the recommendations accordingly.
 
 The output will be like this:
+![image](https://user-images.githubusercontent.com/55240071/88199107-10dcf980-cc62-11ea-83f2-a5c0bf881528.png)
