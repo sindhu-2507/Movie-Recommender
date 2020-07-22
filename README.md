@@ -21,7 +21,11 @@ In ratings.csv we have user_id,movie_id,rating,timestamp
 In ratings_small.csv we have 100000 ratings from 700 users on 9000 movies
 
 In content based filtering we recommend the movies according to the genres and popularity
-The output of the 
+
+It takes input a movie and give the recommendations accordingly
+
+The output of content based filtering will be like this:
+![image](https://user-images.githubusercontent.com/55240071/88202627-cad66480-cc66-11ea-821a-88254e9a0088.png)
 
 In collaborative the recommendations are based on filtering based on users personal taste and movie ratings and popularity
 
