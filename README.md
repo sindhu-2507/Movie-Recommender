@@ -20,7 +20,10 @@ In ratings.csv we have user_id,movie_id,rating,timestamp
 
 In ratings_small.csv we have 100000 ratings from 700 users on 9000 movies
 
-With these we apply collaborative filtering based on users personal taste and movie ratings and popularity
+In content based filtering we recommend the movies according to the genres and popularity
+The output of the 
+
+In collaborative the recommendations are based on filtering based on users personal taste and movie ratings and popularity
 
 We take inputs the user_id and the movie he searched and give the recommendations accordingly.
 
